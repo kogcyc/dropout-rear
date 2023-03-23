@@ -6,11 +6,34 @@
    height="200"
    id="svg2"
    version="1.1"
+   sodipodi:docname="rdrop.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3325"
+     inkscape:cx="74.67167"
+     inkscape:cy="146.7167"
+     inkscape:window-width="1250"
+     inkscape:window-height="655"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4" />
   <metadata
@@ -25,7 +48,8 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
+     id="layer1"
+     transform="rotate(-36,90.213113,86.634062)">
     <path
        id="path3064"
        d="m 109.16347,21.002385 c -6.95906,0.26766 -13.953082,1.78691 -20.661292,4.91264 -19.19689,8.95284 -30.581448,27.84701 -30.936114,47.68941 -1.35248,16.3153 2.630387,28.834795 -12.06173,46.014095 -6.25348,5.6674 -10.274807,13.7893 -10.274807,22.8944 0,2.9581 0.451378,5.775 1.228502,8.4876 1.921822,6.1272 5.330469,10.6582 9.493042,14.7428 l -7.817803,9.6032 c 2.8468,2.2843 6.441119,3.6864 10.386488,3.6864 5.154005,0 9.705536,-2.2548 12.731841,-5.9197 1.641722,0.2793 3.309231,0.4479 5.025717,0.4479 13.851264,0 25.518084,-9.1272 29.484234,-21.6668 3.54468,-14.7532 12.762202,-18.4334 20.214562,-22.8951 1.29824,-0.7384 -0.52951,-2.96 -4.91403,-12.2854 L 94.979768,82.203435 c -0.004,-0.011 -0.055,-0.025 -0.1115,-0.031 -4.17082,-8.944 -0.23302,-19.6166 8.711252,-23.7873 8.94419,-4.1714 19.50601,-0.2529 23.67673,8.7111 0.001,0.011 0.055,0.024 0.11151,0.031 l 21.33138,45.565695 C 164.42646,97.222135 169.61147,73.073135 159.75572,51.937235 150.37156,31.812625 130.04068,20.245495 109.1635,21.002005 Z M 64.490399,124.42093 c 0.600718,-0.017 1.170104,0 1.786915,0 9.868894,0 17.869234,8.0003 17.869234,17.8687 0,9.8699 -8.00034,17.8694 -17.869234,17.8694 -9.868884,0 -17.86924,-7.9995 -17.86924,-17.8694 0,-9.2519 7.071656,-16.9546 16.082325,-17.8687 z"
